@@ -1,6 +1,6 @@
 # Hi, I'm Kajal Gupta! 👋
 
-# Aspiring Statistician | Data Scientist | Public Health Research & Consulting
+### Aspiring Statistician | Data Scientist | Public Health Research & Consulting
 
 📍 MS Biostatistics Candidate, New York University
 
@@ -9,36 +9,36 @@
 I’m always eager to explore new technologies, collaborate on impactful projects, and contribute to data-driven solutions in healthcare and beyond.
 
 ---
-# 🛠 Skills & Tools
+## 🛠 Skills & Tools
 
-## Programming Languages:
+#### Programming Languages:
 R | Python | STATA | SAS | Java
 
-## Data Analysis & Visualization:
+#### Data Analysis & Visualization:
 dplyr | tidyr | ggplot2 | plotly | Pandas | NumPy | Matplotlib
 
-## Machine Learning:
+#### Machine Learning:
 randomForest | kmeans | caret | xgboost | glmnet | nnet | pROC | Scikit-learn | TensorFlow | PyTorch
 
-## Tools & Platforms:
+#### Tools & Platforms:
 RStudio | Jupyter Notebook | Git | Microsoft Office | NetLogo | BLAST | SAS Studio | STATA/SE
 
-## Coursework:
+#### Coursework:
  Biostatistics | Epidemiology | Regression Analysis | Advanced Agent-Based Modeling | Machine Learning | Longitudinal Analysis | Psychometrics
 
-## Soft Skills:
+#### Soft Skills:
 🧑‍🤝‍🧑 Leadership | 🤝 Teamwork | 💬 Effective Communication
 
 ---
-#  Statistical Consulting Projects 
-## NYU Langone Health 
+##  Statistical Consulting Projects 
+#### NYU Langone Health 
 1. Sun Protective Behaviour Study
 2.  Methadone Related Mortality
 
-## NDRI- USA
+#### NDRI- USA
 1. COVID-19 Vaccine Uptake Study 
 ---
-# 🎨 Fun Facts
+## 🎨 Fun Facts
 
 - 🌍 I love traveling, exploring new cultures, and indulging in diverse cuisines.
 
@@ -51,7 +51,7 @@ RStudio | Jupyter Notebook | Git | Microsoft Office | NetLogo | BLAST | SAS Stud
 - 🏥 ’m fascinated by how advancements in technology, especially AI and data-driven innovations, can enhance patient care, improve lives, and contribute to healthcare.
 
 ---
-# 📬 Let’s Connect!
+## 📬 Let’s Connect!
 
 💼 [LinkedIn: Kajal Gupta](https://www.linkedin.com/in/kajalgupta37/)
  
