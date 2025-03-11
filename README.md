@@ -53,7 +53,7 @@ RStudio | Jupyter Notebook | Git | Microsoft Office | NetLogo | BLAST | SAS Stud
 ---
 # 📬 Let’s Connect!
 
-💼 [LinkedIn: Kajal Gupta]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/kajalgupta37/))
+💼 [LinkedIn: Kajal Gupta](https://www.linkedin.com/in/kajalgupta37/)
  
 📧 [Email me](mailto:kajal0307gupta@gmail.com)
 
