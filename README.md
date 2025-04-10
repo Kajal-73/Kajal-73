@@ -1,6 +1,6 @@
 # Hi, I'm Kajal Gupta! 👋
 
-### Aspiring Statistician | Data Scientist | Public Health Research & Consulting
+### Aspiring Biostatistician | Data Scientist | Public Health Research & Consulting
 
 📍 MS Biostatistics Candidate, New York University
 
