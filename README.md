@@ -12,7 +12,7 @@ I’m always eager to explore new technologies, collaborate on impactful project
 ## 🛠 Skills & Tools
 
 #### Programming Languages:
-R | Python | STATA | SAS | Java
+R | Python | STATA | SAS | Java | SQL
 
 #### Data Analysis & Visualization:
 dplyr | tidyr | ggplot2 | plotly | Pandas | NumPy | Matplotlib
