@@ -1,8 +1,9 @@
 # Hi, I'm Kajal Gupta! 👋
 
-### Aspiring Biostatistician | Data Scientist | Public Health Research & Consulting
+### M.S Biostatistician | Data Scientist | Public Health Research & Consulting
 
-📍 MS Biostatistics Candidate, New York University
+📍 Data Analyst, NYC Health + Hospitals | Bellevue
+📍 Research Assistant|Environmental Impact Analysis (EVIA) Lab , NYU School Of Global Public Health 
 
 🔢 Data meets purpose, and I thrive at the intersection of statistics, machine learning, and public health. With a strong analytical mindset and a passion for solving real-world problems, I enjoy uncovering insights that drive meaningful change.
 
@@ -33,7 +34,9 @@ RStudio | Jupyter Notebook | Git | Microsoft Office | NetLogo | BLAST | SAS Stud
 ##  Statistical Consulting Projects 
 #### NYU Langone Health 
 1. Sun Protective Behaviour Study
-2.  Methadone Related Mortality
+
+#### NYC Health + Hospital | Bellevue
+Methadone Related Mortality
 
 #### NDRI- USA
 1. COVID-19 Vaccine Uptake Study 
